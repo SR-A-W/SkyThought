@@ -5,7 +5,7 @@ question_key: problem
 answer_key: answer
 dataset_split: test
 templating_parameters: 
-  template: "Return your final response within \\boxed{{}}. {problem}/think"
+  template: "Please reason step by step, and put your final answer within \boxed{}. {problem}/think"
 # optional. Not supported yet. 
 # fewshot_config:
 #   - question: ...
