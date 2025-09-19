@@ -75,3 +75,6 @@ models:
         
   NovaSky-AI/Sky-T1-32B-Flash: 
     system_prompt: *sky_t1_system_prompt
+
+  Qwen/Qwen3-8B:
+    system_prompt: *qwen_cot_system_prompt
