@@ -78,3 +78,6 @@ models:
 
   Qwen/Qwen3-8B:
     system_prompt: *qwen_cot_system_prompt
+
+  meta-llama/Llama-3.1-8B:
+    system_prompt: "You are a helpful assistant. Please provide clear and accurate responses."
